@@ -8,3 +8,10 @@ There will be a simple donate button on the homepage. On clicking the donate but
 Once the payment is done an invoice will be generated and an email will be sent to the user for the payment received. The invoice will contain the amount.
 
 Thank You!
+
+<p align="center">
+  <img 
+    width="200"
+    src="Donation20%Website/logo.png"
+  >
+</p>
