@@ -11,7 +11,15 @@ Thank You!
 
 <p align="center">
   <img 
-    width="200"
-    src="Donation20%Website/logo.png"
+       width="150"
+    src="Donation Website/logo.png"
+  >
+</p>
+
+<h1>Home Page</h1>
+
+<p align="center">
+  <img 
+    src="Preview/home_page.png"
   >
 </p>
